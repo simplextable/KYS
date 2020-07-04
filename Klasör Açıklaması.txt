@@ -1,0 +1,6 @@
+yaratým tarihi: 29.08.15
+
+bu versiyonda;
+
+menüler ayrý php dosyalarýna alýnýp include ediliyor.
+rezerve butonu sadece materyal durumu mevcut olduðunda çýkýyor. 

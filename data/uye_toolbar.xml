@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="kullaniciEkle" type="button" text="Ekle" img="add_contact.gif" imgdis="add_contact_dis.gif"/>
+	<item id="kullaniciSil" type="button" text="Sil" img="delete_contact.gif" imgdis="delete_contact_dis.gif"/>
+	<item id="sep01" type="separator"/>         
+	<item id="yardim" type="button" text="Yardım"/>
+</toolbar>

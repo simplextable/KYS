@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<items>
+    <item type="settings" inputWidth="160" position="label-left" labelWidth="140"/>
+	<item type="input"	label="Materyal ID" name="materyal_id" required="true" offsetLeft="15"/>
+	<item type="input"	label="Materyal Türü:" name="materyal_tur_id" required="true" offsetLeft="15"/>
+	<item type="input"	label="İsim:" name="isim" required="true" offsetLeft="15"/>
+    <item type="input" 	label="Yayıncı:" name="yayinci" offsetLeft="15"/>
+    <item type="input" 	label="Sayfa Sayısı:" name="sayfa_sayisi" offsetLeft="15"/>
+    <item type="input" 	label="Yazar:" name="yazar" offsetLeft="15"/>
+    <item type="input" 	label="Dili:" name="dili" offsetLeft="15"/>
+    <item type="input" 	label="İçerik Türü:" name="icerik_turu" offsetLeft="15"/>
+    <item type="input" 	label="Yönetmen:" name="yonetmen" offsetLeft="15"/>
+    <item type="input" 	label="Yayının Sayısı:" name="yayin_sayisi" offsetLeft="15"/>
+    <item type="input" 	label="Anahtar Kelimeler:" name="anahtar_kelimeler" offsetLeft="15"/>
+    <item type="input"  label="Yayın Yılı:" name="yayin_yili" maxLength="4" required="true" inputWidth="60" offsetLeft="15"/>
+    <item type="input" 	label="Durum:" name="durum" required="true" maxLength="6" inputWidth="60" offsetLeft="15"/>
+    <item type="button" value="Güncelle" offsetTop="15" offsetLeft="220"/>
+</items>

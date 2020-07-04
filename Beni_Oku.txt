@@ -1,0 +1,43 @@
+------------------------------------------------------
+-+ KYS Kütüphane Yönetim Sistemi kurulum bilgileri: +-
+------------------------------------------------------
+
+KYS Kurulum Dosyalarý:
+----------------------
+KYS.zip 	(KYS web uygulama dosyalarý)
+kys.sql		(Örnek veritabaný import dosyasý)
+Beni_Oku.txt 	(bu metin dosyasýdýr)
+
+KYS Sistem Gereksinimleri:
+--------------------------
+- PHP 5
+- MySQL Veritabaný
+- Apache Web Sunucusu
+
+Yazýlým yukarýda listelenen gereksimler karþýlandýðý takdirde Linux
+ya da Windows iþlem sistemleri üzerinde çalýþtýrýlabilir.
+
+Kurulum:
+--------
+Windows sistemlerde Apache web sunucusunun htdocs dizinine ZIP dosyasýndaki
+bütün dosyalarý açarak, kys.sql isimli dosyanýn da MySQL veritabaný sunucusuna
+import ederek yazýlým çalýþýr hale getirilir.
+
+Bu iþlemler yapýldýktan sonra tarayýcý penceresinde localhost/kys adresini
+yazarak KYS web uygulamasý çalýþtýrýlýr.
+
+DEMO Kullaným Bilgileri:
+------------------------
+Giriþ ekranýnda "Yönetici hesabý" için,
+
+kullanýcý adý: 112233
+parolasý: admin
+
+þeklinde tanýmlanmýþtýr.
+
+Test kullanýcýsý için,
+kullanýcý adý: 123
+parolasý: 123
+
+þeklinde kullanýlabilir.
+kullanýcý adý:

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+    <item type="settings" inputWidth="160" position="label-left" labelWidth="140"/>
+	<item type="input"	label="T.C. Kimlik No:" name="tc_kimlik_no" required="true" offsetLeft="15"/>
+	<item type="input"	label="İsim:" name="isim" required="true" offsetLeft="15"/>
+	<item type="input"	label="Soyisim:" name="soyisim" required="true" offsetLeft="15"/>
+    <item type="input" 	label="E-posta:" name="eposta" required="true" offsetLeft="15"/>
+    <item type="input" 	label="İlgi Alanları:" name="ilgi_alanlari" offsetLeft="15"/>
+    <item type="input" 	label="Kullanıcı Puanı:" name="puan" offsetLeft="15"/>
+    <item type="input" 	label="Adres:" name="adres" rows="3" offsetLeft="15"/>
+    <item type="input" 	label="Alınan Materyal:" name="alinan_materyal_sayisi" inputWidth="30" offsetLeft="15"/>
+    <item type="input" 	label="Rezerve Materyal:" name="rezerve_materyal_sayisi" inputWidth="30" offsetLeft="15"/>
+    <item type="input" 	label="Ödünç Limiti:" name="odunc_limiti" inputWidth="30" offsetLeft="15"/>
+    <item type="input" 	label="Rezerve Limiti:" name="rezerve_limiti" inputWidth="30" offsetLeft="15"/>
+    <item type="password"  label="Kullanıcı Parolası:" name="parola" maxLength="8" required="true" inputWidth="60" offsetLeft="15"/>
+    <item type="input" 	label="H.A.Tarihi (yyyy-aa-gg):" name="hesap_acilis_tarihi" offsetLeft="15"/>
+    <item type="input" 	label="Durumu:" name="aktiflik_durumu" maxLength="1" inputWidth="30" offsetLeft="15"/>
+	<item type="button" value="Güncelle" offsetTop="15" offsetLeft="220"/>
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<menu>
+    <item id="fTop" text="KYS Yönetim">
+        <item id="yonetici" text="Yönetici Paneli"><href><![CDATA[yonetici_paneli.php]]></href></item>
+        <item id="kym" text="Kullanıcı Yönetim Modülü"><href><![CDATA[kym.php]]></href></item>
+        <item id="mym" text="Materyal Yönetim Modülü"><href><![CDATA[mym.php]]></href></item>
+		<item id="fts0" type="separator"/>
+        <item id="ftQuit" text="Çıkış"><href><![CDATA[cikis.php]]></href></item>
+    </item>
+	<item id="hTop" text="Yardım" enabled="false"/>
+</menu>
